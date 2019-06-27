@@ -6,7 +6,7 @@ WORDS = ("python", "jumble", "easy", "difficult", "answer", "chicken")
 word = random.choice(WORDS)
 correct = word
 jumble = ""
-livesRemaining = 3
+livesRemaining = 3 #Including a life system
 
 while word:
     position = random.randrange(len(word))
@@ -42,4 +42,3 @@ if guess == correct:
     print("Thanks for saving the day")
 
 input("\n\nPress the enter key to exit")
-

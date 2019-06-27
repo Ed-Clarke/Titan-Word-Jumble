@@ -31,7 +31,7 @@ while guess != correct and guess != "":
     time.sleep(2)
     print("Thanks for playing!")
     break
-# elif:guess = input("Your guess: ")
+
 if guess == correct:
     print("YOU'RE A HERO!!! YOU DEFEATED THE UNSTOPPABLE TITAN\n")
     print("Thanks for saving the day")
