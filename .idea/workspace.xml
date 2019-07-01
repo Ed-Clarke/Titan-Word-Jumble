@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d4fe983-7fc4-4541-94c5-fcc4f0e945e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Titan Word Jumble v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Titan Word Jumble v4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Titan Word Jumble v3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <marker date="1561992682257" expanded="true" signature="403:432" ph="..." />
@@ -26,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Titan Word Jumble v2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Titan Word Jumble v4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="176">
+              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -62,12 +61,13 @@
         <option value="$PROJECT_DIR$/Titan Word Jumble v1.py" />
         <option value="$PROJECT_DIR$/Titan Word Jumble v2.py" />
         <option value="$PROJECT_DIR$/Titan Word Jumble v3.py" />
+        <option value="$PROJECT_DIR$/Titan Word Jumble v4.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="64" />
+    <option name="x" value="34" />
+    <option name="y" value="42" />
     <option name="width" value="1374" />
     <option name="height" value="630" />
   </component>
@@ -112,7 +112,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Titan Word Jumble v3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Titan Word Jumble v4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="TitanWordJumble-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titan Word Jumble v3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titan Word Jumble v4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,18 +158,17 @@
       <workItem from="1561652701893" duration="1271000" />
       <workItem from="1561655359026" duration="29000" />
       <workItem from="1561724979161" duration="409000" />
-      <workItem from="1561726630111" duration="11197000" />
+      <workItem from="1561726630111" duration="13129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20899000" />
+    <option name="totallyTimeSpent" value="22831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="64" width="1374" height="630" extended-state="0" />
-    <editor active="true" />
+    <frame x="34" y="42" width="1374" height="630" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2238806" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22372372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -192,7 +191,7 @@
       <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.509009" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2238806" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22372372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -212,14 +211,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.43997404" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.509009" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TitanWordJumble_Python$Titan_Word_Jumble_v2.coverage" NAME="Titan Word Jumble v3 Coverage Results" MODIFIED="1561992283956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TitanWordJumble_Python$Titan_Word_Jumble_v2.coverage" NAME="Titan Word Jumble v4 Coverage Results" MODIFIED="1561994525504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TitanWordJumble_Python$Titan_Word_Jumble_v3.coverage" NAME="Titan Word Jumble v2 Coverage Results" MODIFIED="1561726420506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TitanWordJumble_Python$TitanWordJumble_Python.coverage" NAME="Titan Word Jumble v2 Coverage Results" MODIFIED="1561633120906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -247,11 +246,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Titan Word Jumble v3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1561992682257" expanded="true" signature="403:432" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titan Word Jumble v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
